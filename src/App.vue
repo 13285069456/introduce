@@ -30,7 +30,7 @@
         enableHtml: false,
         fullStyle: [
           `/*
-* 大家好，我是傅燕龙。
+* 大家好，我是魏韦明。
 * 我来写一份简历！
 */
 
@@ -127,19 +127,19 @@ html{
 `],
         currentMarkdown: '',
         currentThankMarkdown: '',
-        fullMarkdown: `傅燕龙
+        fullMarkdown: `魏韦明
 ====
 坐标：福建厦门。
 
-应届生，初级java软件开发工程师。
+一年工作经历，初级java软件开发工程师。
 
 技能
 ====
 
 数据库
 ----
-  - mySQL
-  - oracle
+  - MySql
+  - Oracle
 
 后端开发
 ----
@@ -163,28 +163,29 @@ html{
   - bootstrap
   - layui
   - velocity
+  - angularjs
 
 项目经验
 ----
-  - 厦门地铁app购票后台管理
-  - 第三方票务后台管理
-  - 公交app后台管理
-  - 第三方接口编写
+  - 厦门建发ERP系统
+  - 厦门象屿物流供应链系统
+  - ERP移动端APP
+  - 携程第三方接口编写
 
 工作经历
 ====
 
-1. 厦门路桥信息股份有限公司
+1. 厦门建发股份和易通
 
 教育经历
 ====
 
-1. 福州大学阳光学院 软件工程
+1. 闽南理工学院
 
 勾引方式
 ====
 
-* 微信：fuyanlong474741
+* 微信：wwm9601
 `
       }
     },
